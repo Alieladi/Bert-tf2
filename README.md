@@ -1,4 +1,4 @@
-# Bert-tf2
+# BERT-tf2
 Implement BERT on Tensorflow 2.* using the TF hub pre-trained BERT model and the official model repository of Tensorflow.
 
 The main reason behind this project is that I couldn't find any straightforward implementation of BERT for Tensorflow 2 in eager mode. This was also part of my learning about the recent changes on NLP.
